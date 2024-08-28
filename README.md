@@ -1,5 +1,5 @@
 # Literatura
-# Java Challenge: Conversor de Monedas
+# Java Challenge: Literatura
 ___
 ![Estado del Proyecto](https://img.shields.io/badge/ESTADO-EN_DESARROLLO-green)
 ![Java JDK](https://img.shields.io/badge/Java_JDK-v17.0-blue)
